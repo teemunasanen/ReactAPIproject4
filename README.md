@@ -3,9 +3,9 @@
 - I managed to build okayish front and finally get connection with my API, but I had some serious problems on my way
 - useState and useEffect are not my closest friends yet, but maybe some day...
 - React was interesting even though i didn't manage to use it as I wanted
+- my Heroku is full and I do not have time to any other platform so this time it is not published
 
-
-
+- I had fun at course and learned a lot!! thanx Mika
 
 
 # Getting Started with Create React App
