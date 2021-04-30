@@ -1,3 +1,13 @@
+# React API project 4
+- The aim of the project was building React app and fetching API data from previous apiproject
+- I managed to build okayish front and finally get connection with my API, but I had some serious problems on my way
+- useState and useEffect are not my closest friends yet, but maybe some day...
+- React was interesting even though i didn't manage to use it as I wanted
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
